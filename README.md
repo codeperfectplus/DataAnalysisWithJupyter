@@ -1,5 +1,9 @@
 # DataAnalysisWithJupyterNotebook
 
+[![Python 3.7](https://img.shields.io/badge/python-3.7-blue.svg)](https://www.python.org/downloads/release/python-360/)&nbsp;
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.md)&nbsp;
+![Update](https://img.shields.io/badge/update-monthly-green.svg)&nbsp;
+
  Data Analysis With Jupyter Notebook In Python 3.6+
 
 - [DataAnalysisWithJupyterNotebook](#dataanalysiswithjupyternotebook)
