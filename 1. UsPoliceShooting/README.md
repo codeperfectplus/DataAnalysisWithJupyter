@@ -1,5 +1,7 @@
 # Us Police Shotting Analysis
 
+Objective: To find out the insight about the people which were shoot by US Police.
+
 ## Analysis Report Insight
 
 1. 2015 is the year, in which most people were killed.
@@ -24,6 +26,7 @@
 ![graph3](graphs/newplot%20(2).png)
 
 ![graph4](graphs/newplot%20(11).png)
+
 
 ## Data Source
 
